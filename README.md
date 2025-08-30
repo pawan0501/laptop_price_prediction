@@ -70,20 +70,3 @@ Run the Jupyter Notebook:
 ```bash
 jupyter notebook laptop-price-predictor.ipynb
 ```
-
----
-
-## 📌 Future Improvements
-- Deploy the model using **Streamlit** or **Flask** for interactive predictions.
-- Add **more datasets** for better generalization.
-- Use **Deep Learning models** for improved performance.
-
----
-
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
